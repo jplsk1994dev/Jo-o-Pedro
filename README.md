@@ -1,6 +1,5 @@
 # 🚀 Projeto piloto curso de desenvolvimento de sistemas
-![Badge de Status](https://img.shields.io)
-![Versão](https://img.shields.io)
+
 
 > O objetivo desse projeto é aprender a configurar o github para ser um profissional bem visto!
 
