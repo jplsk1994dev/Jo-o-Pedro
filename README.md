@@ -8,9 +8,9 @@
 ## 🛠️ Tecnologias Utilizadas
 Os principais recursos utilizados no desenvolvimento:
 
-![Python]
-![SQL]
-![HTML]
+[Python]
+[SQL]
+[HTML]
 
 ---
 
