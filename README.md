@@ -8,9 +8,9 @@
 ## 🛠️ Tecnologias Utilizadas
 Os principais recursos utilizados no desenvolvimento:
 
-![React](https://img.shields.io)
-![NodeJS](https://img.shields.io)
-![MongoDB](https://img.shields.io)
+![Python]
+![SQL]
+![HTML]
 
 ---
 
