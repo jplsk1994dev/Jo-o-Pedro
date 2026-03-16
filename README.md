@@ -25,15 +25,8 @@ Estimativa de custo zero, curso realizado pelo Centro Paula Souza.
 | **Serviços** | APIs de Terceiros (Stripe) | $0/mês |
 | **💸 Total Estimado**| **Mensal** | **~$0** |
 
----
 
-## 🚀 Como Executar
-1. Clone o repositório:
-   `git clone https://github.com`
-2. Instale as dependências:
-   `npm install`
-3. Execute o projeto:
-   `npm start`
+
 
 ---
 
